@@ -1,0 +1,35 @@
+{
+  "workouts-test": {
+    "first-key": {
+      "website": "dalenguyen.me",
+      "email": "dungnq@itbox4vn.com",
+      "secondRef": "test/second-key",
+      "arrayRef": ["test/second-key", "test/second-key"],
+      "nestedRef": {
+        "secondRef": "test/second-key"
+      },
+      "subCollection": {
+        "test/first-key/details": {
+          "33J2A10u5902CXagoBP6": {
+            "dogId": "2",
+            "dogName": "hello"
+          },
+          "MSZTWEP7Lewx0Qr1Mu5s": {
+            "dogName": "lala",
+            "dogId": "2"
+          }
+        },
+        "test/first-key/contacts": {
+          "33J2A10u5902CXagoBP6": {
+            "contactId": "1",
+            "name": "Dale Nguyen"
+          },
+          "MSZTWEP7Lewx0Qr1Mu5s": {
+            "contactId": "2",
+            "name": "Yen Nguyen"
+          }
+        }
+      }
+    }
+  }
+}

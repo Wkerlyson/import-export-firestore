@@ -1,0 +1,88 @@
+{
+    "workouts-test": {
+        "dVDnTdr4r0wow5Sl01D5": {
+            "user_id": "BzM2UoP9Z8RYMxVmq7mMHocLBRo1",
+            "objective": "Hipertrofia - Balanceada",
+            "active": true,
+            "image_url": "https://pratiquefitness.com.br/wp-content/uploads/2019/11/Treino-musculacao-definicao-masculino-3.jpg",
+            "name": "Treino personalizados",
+            "subCollection": {
+                "workouts-test/dVDnTdr4r0wow5Sl01D5/workouts-test_group": {
+                    "E8rFbrt0bNVGB7eohGZ5": {
+                        "name": "Abdômen, Ombro e Peitoral",
+                        "completedDate": {
+                            "_seconds": 1713965235,
+                            "_nanoseconds": 988000000
+                        },
+                        "letter": "A",
+                        "duration": "50-40 min",
+                        "calories": 450,
+                        "load": 10
+                    },
+                    "MdjSZ1DW3ga1mDUpW7ja": {
+                        "completedDate": {
+                            "_seconds": 1712667504,
+                            "_nanoseconds": 639000000
+                        },
+                        "letter": "C",
+                        "name": "Costas e Pernas",
+                        "duration": "40-50 min",
+                        "calories": 420,
+                        "load": 8
+                    },
+                    "qaSP4UzWI6QrwAllIseZ": {
+                        "name": "Costas, Bícepes e Abdômen",
+                        "completedDate": {
+                            "_seconds": 1713913798,
+                            "_nanoseconds": 612000000
+                        },
+                        "letter": "B",
+                        "duration": "40-50 min",
+                        "calories": 333,
+                        "load": 5.5,
+                        "subCollection": {
+                            "workouts-test/dVDnTdr4r0wow5Sl01D5/workouts-test_group/qaSP4UzWI6QrwAllIseZ/exercise": {
+                                "UFAdUuTdbCjEhiUtUck1": {
+                                    "comments": "Alguma observação aqui...",
+                                    "load": 5.5,
+                                    "rest_between_sets": 60,
+                                    "serial_number": 3,
+                                    "completed": true,
+                                    "how_to_do": "Deite no banco e levante os pesos...",
+                                    "unit": "T",
+                                    "name": "Push-up",
+                                    "image_url": "https://menspower.nl/wp-content/uploads/2018/05/push-up.gif",
+                                    "duration": 2
+                                },
+                                "bmAA53yK4xVvx9fHnRW1": {
+                                    "duration": 5,
+                                    "unit": "P",
+                                    "comments": "Alguma observação aqui...",
+                                    "load": 12,
+                                    "rest_between_sets": 60,
+                                    "how_to_do": "Deite no banco e levante os pesos...",
+                                    "serial_number": 3,
+                                    "completed": true,
+                                    "image_url": "https://menspower.nl/wp-content/uploads/2018/02/Barbell-squat.gif",
+                                    "name": "Agachamento com barra"
+                                },
+                                "rt3esopzQFHECxPKmHWW": {
+                                    "duration": 5,
+                                    "comments": "Alguma observação aqui...",
+                                    "load": 10,
+                                    "rest_between_sets": 60,
+                                    "how_to_do": "Deite no banco e levante os pesos...",
+                                    "serial_number": 4,
+                                    "completed": true,
+                                    "unit": "P",
+                                    "name": "Supino barra",
+                                    "image_url": "https://menspower.nl/wp-content/uploads/2018/02/Barbell-bench-press.gif"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
